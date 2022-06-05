@@ -6,7 +6,18 @@ The data for this project was primarily sourced. The dataset contains reviews of
 The datasets are in two parts. The non-labelled dataset(i.e the scrapped one with no sentiment or data cleansing) and the sentiment labelled dataset.
 Each dataset was analyzed individually because of the size and in order to achieve optimal results and no merging of datasets was done.
 
-NOTE: Only the dataset of one bank per platform will be uploaded. This is because the datasets pretty much has the same variables accross the banks and the analysis codes are pretty much the same.
+The variables found in each dataset upon scrapping are;
+
+GOOGLE PLAY: ReviewId,	UserName,	UserImage, Content,	Score, ThumbsUpCount,	ReviewCreatedVersion,	At,	ReplyContent,	RepliedAt.
+
+APPSTORE: Review,	UserName,	Date,	IsEdited,	Rating,	Title,	DeveloperResponse.
+
+NOTE: The variables did not remain cinstant till the end of the project as some were deemed irrelevant for the project hence were deleted and some were renamed.
+
+
+
+
+NOTE: Only the dataset of one bank per platform will be uploaded(BARCLAYS). This is because the datasets pretty much has the same variables accross the banks and the analysis codes are pretty much the same.
 ## Code
 The codes used for each step of the project can be found in the code folder. The codes are broken into 3 parts;
 
