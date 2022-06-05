@@ -36,7 +36,7 @@ The classifier works for python 2.7, 3.0 and above
 To use these algorithms you should install : sklearn 0.14 version (http://scikit-learn.org/dev/index.html) , numpy (http://www.numpy.org/), nltk 3 with full packages using nltk.download() instruction in python. A full list of packages used on this project are found in the code used for the sentiment analysis.
 
 ## Further Analysis
-
+A statistical Analysis was carried out on the results gotten using the two way ANOVA without replication and this was done using excel. Unfortunately, the file will not be uploaded.
 
 ## NOTE
 This is my first ever project on sentiment analysis and it was an interesting one. I hope these codes help someone out there as well.
