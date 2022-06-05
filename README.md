@@ -38,6 +38,7 @@ To use these algorithms you should install : sklearn 0.14 version (http://scikit
 ## Further Analysis
 
 
-## NOTE: This is my first ever project on sentiment analysis and it was an interesting one. I hope these codes help someone out there as well.
+## NOTE
+This is my first ever project on sentiment analysis and it was an interesting one. I hope these codes help someone out there as well.
 
 THANK YOU!
