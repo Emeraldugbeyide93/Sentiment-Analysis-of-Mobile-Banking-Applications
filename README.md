@@ -16,6 +16,8 @@ The codes used for each step of the project can be found in the code folder. The
 
 *Sentiment Analysis(This Stage involved different analysis of the dataset, wordcloud visualizations, k-fold cross validation etc)
 
+I tried to simplify the codes as best as I could by adding description in order to aid better understanding.
+
 ## Classifiers
 The Classification models used in this project are(in no particular order);
 
@@ -32,5 +34,10 @@ The Classification models used in this project are(in no particular order);
 ## Requirements
 The classifier works for python 2.7, 3.0 and above
 To use these algorithms you should install : sklearn 0.14 version (http://scikit-learn.org/dev/index.html) , numpy (http://www.numpy.org/), nltk 3 with full packages using nltk.download() instruction in python. A full list of packages used on this project are found in the code used for the sentiment analysis.
+
+## Further Analysis
+
+
+## NOTE: This is my first ever project on sentiment analysis and it was an interesting one. I hope these codes help someone out there as well.
 
 THANK YOU!
