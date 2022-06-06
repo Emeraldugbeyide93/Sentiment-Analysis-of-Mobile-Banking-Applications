@@ -12,12 +12,9 @@ GOOGLE PLAY: ReviewId,	UserName,	UserImage, Content,	Score, ThumbsUpCount,	Revie
 
 APPSTORE: Review,	UserName,	Date,	IsEdited,	Rating,	Title,	DeveloperResponse.
 
-NOTE: The variables did not remain cinstant till the end of the project as some were deemed irrelevant for the project hence were deleted and some were renamed.
+NOTE: The variables did not remain constant till the end of the project as some were deemed irrelevant for the project hence were deleted and some were renamed.
 
-
-
-
-NOTE: Only the dataset of one bank per platform will be uploaded(BARCLAYS). This is because the datasets pretty much has the same variables accross the banks and the analysis codes are pretty much the same.
+NOTE: Only the dataset of one bank per platform will be uploaded(BARCLAYS). This is because the datasets pretty much has the same variables across the banks and the analysis codes are pretty much the same.
 ## Code
 The codes used for each step of the project can be found in the code folder. The codes are broken into 3 parts;
 
@@ -43,7 +40,7 @@ The Classification models used in this project are(in no particular order);
 *XGBoost
 
 ## Requirements
-The classifier works for python 2.7, 3.0 and above
+The classifiers work for python 2.7, 3.0 and above
 To use these algorithms you should install : sklearn 0.14 version (http://scikit-learn.org/dev/index.html) , numpy (http://www.numpy.org/), nltk 3 with full packages using nltk.download() instruction in python. A full list of packages used on this project are found in the code used for the sentiment analysis.
 
 ## Further Analysis
