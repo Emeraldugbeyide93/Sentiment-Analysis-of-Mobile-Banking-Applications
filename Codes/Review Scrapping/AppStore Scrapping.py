@@ -65,7 +65,7 @@ pprint(app_store_list[0])
 
 
 app_info_df = pd.DataFrame(app_store_list)
-app_info_df.to_csv('//fs-stf-home.hallam.shu.ac.uk/FS-STF-HOME1/7/uu8277/MyWork/Data/apps_ids.csv', index=False)
+app_info_df.to_csv('your directory', index=False)
 app_info_df.head()
 
 
@@ -120,7 +120,7 @@ df2
 # In[30]:
 
 
-df2.to_csv('C:/Users/uu8277/Desktop/Data/App Store Review BankofScotland.csv')
+df2.to_csv('your drectory/App Store Review BankofScotland.csv')
 
 
 # In[ ]:
