@@ -120,7 +120,7 @@ df2
 # In[30]:
 
 
-df2.to_csv('your drectory/App Store Review BankofScotland.csv')
+df2.to_csv('your directory/App Store Review BankofScotland.csv')
 
 
 # In[ ]:
