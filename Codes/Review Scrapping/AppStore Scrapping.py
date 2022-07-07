@@ -32,7 +32,7 @@ import time
 # In[16]:
 
 
-app_df = pd.read_csv('//fs-stf-home.hallam.shu.ac.uk/FS-STF-HOME1/7/uu8277/MyWork/Data/apps_ids.csv')
+app_df = pd.read_csv('your directory')
 
 
 # In[17]:
